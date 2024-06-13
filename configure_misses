@@ -1,0 +1,5 @@
+Configure miss: gcc option to enable large file support
+Configure miss: sys/attributes.h
+Configure miss: sys/uuid.h
+Configure miss: uuid.h
+Configure miss: uuid_compare
